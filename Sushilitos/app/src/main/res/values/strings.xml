@@ -1,3 +1,332 @@
 <resources>
-    <string name="app_name">Sushilitos</string>
+    <string name="negocio_nombre">SUSHILITO"S</string>
+	<string name="negocio_descripcion">RESTAURANT SUSHI y BAR</string>
+
+	<string name="morelos_direccion">MORELOS #1001, ESQ. CON QUINTANA ROO COL. CUAUHTÉMOC</string>
+	<string name="morelos_telefonos">413-50-70 y 413-50-80</string>
+	<string name="morelos_horario">Martes a Jueves 12:00 – 23:00 | Viernes y Sábados 12:00 – 23:30 Domingo 12:00 – 23:00</string>
+
+	<string name="casaBlanca_direccion">LADERAS #544, ENTRE CUENCAS Y BLVD. CASA BLANCA COLONIA CASA BLANCA</string>
+	<string name="casaBlanca_telefonos">431-31-10</string>
+	<string name="casaBlanca_horario">Lunes a Sábado 12:00 – 23:00</string>
+
+	<string name="tabasco_direccion">TABASCO #2515, CON FRANCISCO ZARCO COLONIA CORTINAS</string>
+	<string name="tabasco_telefonos">417-18-10 y 417-18-20</string>
+	<string name="tabasco_horario">Lunes a Domingo 12:00 – 23:00</string>
+
+	<string name="guerrero_direccion">VICENTE GUERRERO #754, ENTRE CALIFORNIA Y QUINTANA ROO COLONIA DEL VALLE</string>
+	<string name="guerrero_telefonos">413-50-77</string>
+	<string name="geurrero_horario">Lunes a Jueves 12:00 – 24:00 | Viernes y Sábados 12:00 pm – 1:30 am Domingo 12:00 – 23:00</string>
+
+	<string name="menu_titulo">MENÚ EXCLUSIVO SUSHILITO’S SUCURSAL MORELOS, CASA BLANCA Y TABASCO</string>
+
+	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	<string name="entradas_titulo">ENTRADAS</string>
+	<string name="entradas_subtitulo">Prueba nuestra variedad de entradas para acompañar tus rollos</string>
+
+	<string name="entradas_01_nombre">CAMARONES CON PHILA (8 PZ).</string>
+	<string name="entradas_01_descripcion">Empanizados con un copo de arroz blanco con tampico.</string>
+	<string name="entradas_01_precio">110.00</string>
+
+	<string name="entradas_02_nombre">CAMARONES TÉMPURA (10PZ.)</string>
+	<string name="entradas_02_descripcion">.</string>
+	<string name="entradas_02_precio">110.0</string>
+
+	<string name="entradas_03_nombre">CAMARONES BUFFALO (10PZ.)</string>
+	<string name="entradas_03_descripcion">.</string>
+	<string name="entradas_03_precio">110.00</string>
+
+	<string name="entradas_04_nombre">VERDURAS TÉMPURA.</string>
+	<string name="entradas_04_descripcion">Zanahorias, cebolla, calabaza, brócoli y chile morrón.</string>
+	<string name="entradas_04_precio">100.00</string>
+
+	<string name="entradas_05_nombre">BONELESS.</string>
+	<string name="entradas_05_descripcion">Tiras de pechuga de pollo empalizadas y bañadas en salsa Buffalo ó BBQ.</string>
+	<string name="entradas_05_precio">110.00</string>
+
+	<string name="entradas_06_nombre">BONELESS DE LA CASA.</string>
+	<string name="entradas_06_descripcion">¡Inmejorables! nueva salsa especial de la casa.</string>
+	<string name="entradas_06_precio">120.00</string>
+
+	<string name="entradas_07_nombre">ENSALADA BONELESS.</string>
+	<string name="entradas_07_descripcion">Lechuga, zanahoria, tomate y pepino con tiritas de pollo empanizado bañadas en salsa picosita.</string>
+	<string name="entradas_07_precio">120.00</string>
+
+	<string name="entradas_08_nombre">DEDOS DE QUESO (6 PZ).</string>
+	<string name="entradas_08_descripcion">Tiras de queso phila o queso manchego.</string>
+	<string name="entradas_08_precio">70.00</string>
+
+	<string name="entradas_09_nombre">CHILES RELLENOS (2 CHILES CARIBE).</string>
+	<string name="entradas_09_descripcion">Chile caribe empanizado relleno con camarón, surimi, tocino y queso phila.</string>
+	<string name="entradas_09_precio">75.00</string>
+
+	<string name="entradas_10_nombre">BROCHETAS.</string>
+	<string name="entradas_10_descripcion">Camarón, pollo o surimi alternado con chile morrón, cubierto con queso phila o trozos de queso manchego empanizadas, acompañadas con un copo de arroz con tampico.</string>
+	<string name="entradas_10_precio">110.00</string>
+
+	<string name="entradas_11_nombre">PAPAS SAZONADAS.</string>
+	<string name="entradas_11_descripcion">Ricas papas sazonadas acompañadas de queso amarillo o aderezo ranch.</string>
+	<string name="entradas_11_precio">65.00</string>
+
+	<string name="entradas_12_nombre">CHILES CARIBES RESCOLDADOS.</string>
+	<string name="entradas_12_descripcion">.</string>
+	<string name="entradas_12_precio">40.00</string>
+
+	<string name="entradas_13_nombre">CEBOLLITAS CAPEADAS.</string>
+	<string name="entradas_13_descripcion">.</string>
+	<string name="entradas_13_precio">50.00</string>
+
+	<string name="entradas_14_nombre">ROKA CHICKEN.</string>
+	<string name="entradas_14_descripcion">.</string>
+	<string name="entradas_14_precio">110.00</string>
+
+	<string name="entradas_15_nombre">BOTANA ROJA.</string>
+	<string name="entradas_15_descripcion">Chiles Rellenos, Boneless, Camarones Buffalo y papaz sazonadas.</string>
+	<string name="entradas_15_precio">140.00</string>
+
+	<string name="entradas_16_nombre">BOTANA ESPECIAL.</string>
+	<string name="entradas_16_descripcion">Camarones con phila (3 piezas), deditos de queso manchego o phila (3 piezas), chile relleno (1 pieza) y cebollitas capeadas.</string>
+	<string name="entradas_16_precio">130.00</string>
+
+	<string name="entradas_17_nombre">CHICHARRONES DE ATÚN</string>
+	<string name="entradas_17_descripcion">Chile verde empanizado relleno de queso manchego, pollo, tocino y res.</string>
+	<string name="entradas_17_precio">140.00</string>
+
+	<string name="entradas_18_nombre">EDAMAMES</string>
+	<string name="entradas_18_descripcion">100% saludables, vaina de soja servida con limón, sal y chile tajín.</string>
+	<string name="entradas_18_precio">80.00</string>
+
+	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--
+	<string name="rollos_titulo">ROLLOS</string>
+	<string name="rollos_subtitulo">Prueba nuestros deliciosos rollos</string>
+
+	<string name="rollos_01_nombre">CALIFORNIA TRADICIONAL.</string>
+	<string name="rollos_01_descripcion">Pepino, aguacate, phila y un ingrediente: marlin, tocino, pollo, plátano, chile toreado, camarón, surimi o tampico.</string>
+	<double name="rollos_01_precio">85.00</double>
+
+	<string name="rollos_02_nombre">CALIFORNIA VEGETARIANO.</string>
+	<string name="rollos_02_descripcion">Pepino, aguacate, queso phila, y zanahoria.</string>
+	<double name="rollos_02_precio">70.00</double>
+
+	<string name="rollos_03_nombre">CALIFORNIA ESPECIAL.</string>
+	<string name="rollos_03_descripcion">Pepino, aguacate, queso phila y un ingrediente a elegir: Salmón, Atún, Ostión y/o Pulpo.</string>
+	<double name="rollos_03_precio">105.00</double>
+
+	<string name="rollos_04_nombre">BOMBA DE CAMARÓN.</string>
+	<string name="rollos_04_descripcion">Pepino, aguacate, queso phila, camarón.</string>
+	<double name="rollos_04_precio">100.00</double>
+
+	<string name="rollos_05_nombre">BOMBAZO SUSHI.</string>
+	<string name="rollos_05_descripcion">Pepino, aguacate, queso phila, camarón, surimi, marlin, tocino, chile y aderezo dinamita.</string>
+	<double name="rollos_05_precio">130.00</double>
+
+	<string name="rollos_06_nombre">BOMBA VEGETARIANA.</string>
+	<string name="rollos_06_descripcion">Pepino, aguacate, queso phila y zanahoria.</string>
+	<double name="rollos_06_precio">80.00</double>
+
+	<string name="rollos_07_nombre">BOMBA ESPECIALIDADES.</string>
+	<string name="rollos_07_descripcion">.</string>
+	<double name="rollos_07_precio">130.00</double>
+
+	<string name="rollos_08_nombre">CHALINO ROLL.</string>
+	<string name="rollos_08_descripcion">Pepino, aguacate, queso phila, surimi y camarón, gratinado con queso manchego y cubierto de un aderezo dinamita.</string>
+	<double name="rollos_08_precio">115.00</double>
+
+	<string name="rollos_09_nombre">CHICKEN ROLL.</string>
+	<string name="rollos_09_descripcion">Pepino, aguacate, queso manchego, tampico, camarón empanizado y pollo.</string>
+	<double name="rollos_09_precio">115.00</double>
+
+	<string name="rollos_10_nombre">CHIPOTLE ROLL.</string>
+	<string name="rollos_10_descripcion">Pepino, aguacate, queso phila, camarón y tocino, bañado con una crema de chipotle.</string>
+	<double name="rollos_10_precio">115.00</double>
+
+	<string name="rollos_11_nombre">CORDON BLUE.</string>
+	<string name="rollos_11_descripcion">Pepino, aguacate, queso phila, pollo, gratinado con queso manchego y tocino.</string>
+	<double name="rollos_11_precio">115.00</double>
+
+	<string name="rollos_12_nombre">CULICHI ROLL.</string>
+	<string name="rollos_12_descripcion">Pepino, aguacate, queso phila, tocino, camarón y rajas de chile caribe toreados por dentro del rollo.</string>
+	<double name="rollos_12_precio">115.00</double>
+
+	<string name="rollos_13_nombre">GREENGO ROLL.</string>
+	<string name="rollos_13_descripcion">Vegetales (apio, zanahoria, pepino y aguacate), queso phila, tiras de pechuga de pollo empanizadas por dentro del rollo bañado con el aderezo de la casa y además un toque picante.</string>
+	<double name="rollos_13_precio">115.00</double>
+
+	<string name="rollos_14_nombre">LUZ Y FUEGO ROLL.</string>
+	<string name="rollos_14_descripcion">Pepino, aguacate , queso phila, marlin, surimi y por fuera queso manchego gratinado con tocino.</string>
+	<double name="rollos_14_precio">115.00</double>
+
+	<string name="rollos_15_nombre">MANCHEGO ROLL.</string>
+	<string name="rollos_15_descripcion">Pepino, aguacate, queso phila. tocino, res y gratinado con queso manchego.</string>
+	<double name="rollos_15_precio">115.00</double>
+
+	<string name="rollos_16_nombre">MORELOS ROLL.</string>
+	<string name="rollos_16_descripcion">Pepino, aguacate, res, pollo, deditos de queso manchego por dentro del rollo y por fuera cubierto de queso phila, chiles caribes, chile verde con un toque de tocino.</string>
+	<double name="rollos_16_precio">115.00</double>
+
+	<string name="rollos_17_nombre">NEVADO ROLL.</string>
+	<string name="rollos_17_descripcion">Pepino, aguacate, queso phila, surimi. camarón y gratinado con queso manchego o cubierto con queso phila.</string>
+	<double name="rollos_17_precio">115.00</double>
+
+	<string name="rollos_18_nombre">SONORA ROLL.</string>
+	<string name="rollos_18_descripcion">Pepino, aguacate, queso phila, chile verde, pollo, tocino, res y por fuera cubierto de aguacate y a su vez bañado con una crema de cilantro.</string>
+	<double name="rollos_18_precio">115.00</double>
+
+	<string name="rollos_19_nombre">TERIYAKI ROLL.</string>
+	<string name="rollos_19_descripcion">Aguacate, queso phila, (pollo y zanahoria con salsa teriyaki) y ajonjolí.</string>
+	<double name="rollos_19_precio">115.00</double>
+-->
+	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--
+	<string name="especialidades_titulo">ESPECIALIDAD</string>
+	<string name="especialidades_subtitulo">Prueba nuestras especialidades</string>
+
+	<string name="especialidades_01_nombre">ARRACHERA ROLL.</string>
+	<string name="especialidades_01_descripcion">Pepino, aguacate, queso manchego, chile verde, carne de res y por fuera queso phila con tocino.</string>
+	<double name="especialidades_01_precio">115.00</double>
+
+	<string name="especialidades_02_nombre">C-4 ROLL.</string>
+	<string name="especialidades_01_des2ripcion">Pepino, aguacate, queso phila, chile serrano, camarón empanizado y tampico.</string>
+	<double name="especialidades_02_precio">115.00</double>
+
+	<string name="especialidades_03_nombre">CIELO MAR Y TIERRA ROLL.</string>
+	<string name="especialidades_03_descripcion">Pepino, aguacate, queso phila, pollo, res y camarón.</string>
+	<double name="especialidades_03_precio">115.00</double>
+
+	<string name="especialidades_04_nombre">COSMO ROLL.</string>
+	<string name="especialidades_04_descripcion">Pepino, aguacate, queso phila, camarón por dentro y salmón por fuera.</string>
+	<double name="especialidades_04_precio">115.00</double>
+
+	<string name="especialidades_05_nombre">DINAMITA ROLL.</string>
+	<string name="especialidades_05_descripcion">Pepino, aguacate, queso phila, camarón, marlin, chile toreado y por fuera queso manchego gratinado bañado con aderezo dinamita.</string>
+	<double name="especialidades_05_precio">115.00</double>
+
+	<string name="especialidades_06_nombre">MANGO ROLL.</string>
+	<string name="especialidades_06_descripcion">Pepino, aguacate, pollo y tocino, con una mezcla de queso phila con trozos de piña por fuera del rollo y cubierto de una salsa de mango con chile.</string>
+	<double name="especialidades_06_precio">115.00</double>
+
+	<string name="especialidades_07_nombre">SUBARACHI ROLL.</string>
+	<string name="especialidades_07_descripcion">Pepino, aguacate, queso phila, camarón; por fuera queso phila y tampico.</string>
+	<double name="especialidades_07_precio">115.00</double>
+
+	<string name="especialidades_08_nombre">SUSHILITO ROLL.</string>
+	<string name="especialidades_08_descripcion">Pepino, aguacate, queso phila, tocino, camarón, chiles toreados y un toque de salsa picosa por dentro del rollo.</string>
+	<double name="especialidades_08_precio">115.00</double>
+
+	<string name="especialidades_09_nombre">SHUSHIYTO ROLL.</string>
+	<string name="especialidades_09_descripcion">Pepino, aguacate, queso phila, cangrejo empanizado coronado con un topping de tampico spicy y trocitos de camarón empanizado.</string>
+	<double name="especialidades_09_precio">115.00</double>
+
+	<string name="especialidades_10_nombre">TOCINO ESPECIAL.</string>
+	<string name="especialidades_10_descripcion">Pepino, aguacate, surimi y camarón empanizados por dentro del rollo, con una mezcla de queso phila con tocino por fuera y cubierto con crema de cilantro.</string>
+	<double name="especialidades_10_precio">115.00</double>
+
+	<string name="especialidades_11_nombre">ORDEN DE TAMPICO.</string>
+	<string name="especialidades_11_descripcion"></string>
+	<double name="especialidades_11_precio">25.00</double>
+-->
+	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--
+	<string name="platillos_titulo">PLATILLOS</string>
+	<string name="platillos_subtitulo">Prueba nuestros deliciosos platillos</string>
+
+	<string name="platillos_01_nombre">TERIYAKI</string>
+	<string name="platillos_01_descripcion">Riquísimas verduras al vapor o salteadas (cebolla, brócoli, zanahoria, apio y calabaza) servido en una cama de arroz blanco o arroz frito, bañado con salsa teriyaki y ajonjolí espolvoreado.</string>
+	<string name="platillos_01_info">1 Ing. $120.00 // Ingrediente extra $30.00// Ingredientes a elegir: Camarón, Pollo y Res</string>
+	<double name="platillos_01_precio">120.00</double>
+
+	<string name="platillos_02_nombre">TEPANYAKI</string>
+	<string name="platillos_02_descripcion">Riquísimas verduras salteadas (cebolla, brócoli, zanahoria, chile morrón, apio y calabaza) servido en una cama de arroz blanco o arroz frito, bañado con salsa de la casa y ajonjolí espolvoreado.</string>
+	<string name="platillos_02_info">1 Ing. $120.00 // Ingrediente extra $30.00// Ingredientes a elegir: Camarón, Pollo y Res</string>
+	<double name="platillos_02_precio">120.00</double>
+
+	<string name="platillos_03_nombre">JAPAN</string>
+	<string name="platillos_03_descripcion">Riquísimas verduras salteadas (cebolla, brócoli, zanahoria, chile morrón, apio y calabaza) servido en una cama de arroz blanco o arroz frito, bañado con salsa picosita y chile quebrado espolvoreado.</string>
+	<string name="platillos_03_info">1 Ing. $120.00 // Ingrediente extra $30.00// Ingredientes a elegir: Camarón, Pollo y Res</string>
+	<double name="platillos_03_precio">120.00</double>
+
+	<string name="platillos_04_nombre">YAKIMESHI</string>
+	<string name="platillos_04_descripcion">Ingredients/ExplanationTazón de arroz frito preparado con verduras picadas finamente, queso phila, tampico, aguacate, espolvoreado con furikake y ajonjolí.</string>
+	<double name="platillos_04_precio">100.00</double>
+
+	<string name="platillos_05_nombre">YAKIMESHI ESPECIAL</string>
+	<string name="platillos_05_descripcion">Tazón de arroz frito preparado con verduras picadas finamente, res, pollo, tocino y tampico.</string>
+	<double name="platillos_05_precio">120.00</double>
+
+	<string name="platillos_06_nombre">GOHAN</string>
+	<string name="platillos_06_descripcion">Tazón de arroz blanco con queso phila, tampico y furikake.</string>
+	<double name="platillos_06_precio">80.00</double>
+
+	<string name="platillos_07_nombre">GOHAN ESPECIAL</string>
+	<string name="platillos_07_descripcion">Ingredients/ExplanationTazón de arroz blanco servido con queso phila, tampico, res, pollo, camarón y furikake espolvoreado.</string>
+	<double name="platillos_07_precio">120.00</double>
+
+	<string name="platillos_08_nombre">MISIL.</string>
+	<string name="platillos_08_descripcion">Chile verde empalizado relleno de queso manchego, pollo, tocino y queso phila.</string>
+	<double name="platillos_08_precio">130.00</double>
+
+	<string name="platillos_09_nombre">PORCIÓN DE ARROZ BLANCO</string>
+	<string name="platillos_09_descripcion"></string>
+	<double name="platillos_09_precio">40.00</double>
+
+	<string name="platillos_10_nombre">PORCIÓN DE ARROZ FRITO</string>
+	<string name="platillos_10_descripcion"></string>
+	<double name="platillos_10_precio">55.00</double>
+-->
+	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--	<string name="menuKids_titulo">MENÚ KIDS</string>
+	<string name="menuKids_subtitulo"></string>
+
+	<string name="menuKids_01_nombre">NUGGETS DE POLLO.</string>
+	<string name="menuKids_01_descripcion"></string>
+	<double name="menuKids_01_precio">75.00</double>
+
+	<string name="menuKids_02_nombre">PAPAS FRITAS.</string>
+	<string name="menuKids_02_descripcion"></string>
+	<double name="menuKids_02_precio">65.00</double>-->
+
+	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--
+	<string name="bebidas_titulo">BEBIDAS</string>
+	<string name="bebidas_subtitulo"></string>
+
+	<string name="bebidas_01_nombre">TÉ HELADO 1/2 LITRO.</string>
+	<string name="bebidas_01_descripcion"></string>
+	<double name="bebidas_01_precio">20.00</double>
+
+	<string name="bebidas_02_nombre">TÉ HELADO LITRO.</string>
+	<string name="bebidas_02_descripcion"></string>
+	<double name="bebidas_02_precio">30.00</double>
+
+	<string name="bebidas_03_nombre">ARIZONA TÉ.</string>
+	<string name="bebidas_03_descripcion"></string>
+	<double name="bebidas_03_precio">30.00</double>
+
+	<string name="bebidas_04_nombre">REFRESCO 600 ML.</string>
+	<string name="bebidas_04_descripcion"></string>
+	<double name="bebidas_04_precio">30.00</double>
+
+	<string name="bebidas_05_nombre">LIMONADA CHICA.</string>
+	<string name="bebidas_05_descripcion"></string>
+	<double name="bebidas_05_precio">30.00</double>
+
+	<string name="bebidas_06_nombre">LIMONADA GRANDE.</string>
+	<string name="bebidas_06_descripcion"></string>
+	<double name="bebidas_06_precio">35.00</double>-->
+
+	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--	<string name="postres_titulo">POSTRES</string>
+	<string name="postres_subtitulo"></string>
+
+	<string name="postres_01_nombre">FLAN NAPOLITANO</string>
+	<string name="postres_01_descripcion"></string>
+	<double name="postres_01_precio">30.00</double>
+
+	<string name="postres_02_nombre">PAY DE QUESO</string>
+	<string name="postres_02_descripcion"></string>
+	<double name="postres_02_precio">30.00</double>-->
 </resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:orientation="vertical"
+        tools:context=".Categorias">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:src="@drawable/logosuchilitos"
+            />
+
+        <TableRow
+            android:layout_height="25dp"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:gravity="center"
+            android:textSize="23dp"
+            android:text="NUESTRO MENU"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:gravity="center"
+            android:textSize="11dp"
+            android:text="MENÚ EXCLUSIVO SUSHILITO’S SUCURSAL MORELOS, CASA BLANCA Y TABASCO"/>
+
+        <TableRow
+            android:layout_height="60dp"
+            android:layout_width="match_parent"
+            android:gravity="center">
+            <Button
+                android:id="@+id/entradas"
+                android:background="@drawable/round_button"
+                android:text="entradas"
+                android:textSize="15dp"
+                android:textColor="@color/colorSecondary"
+                android:layout_height="50dp"
+                android:layout_width="180dp"/>
+            <Button
+                android:id="@+id/rollos"
+                android:background="@drawable/round_button"
+                android:text="rollos"
+                android:textSize="15dp"
+                android:textColor="@color/colorSecondary"
+                android:layout_height="50dp"
+                android:layout_width="180dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_height="60dp"
+            android:layout_width="match_parent"
+            android:gravity="center">
+            <Button
+                android:id="@+id/especialidad"
+                android:background="@drawable/round_button"
+                android:text="especialidad"
+                android:textSize="15dp"
+                android:textColor="@color/colorSecondary"
+                android:layout_height="50dp"
+                android:layout_width="180dp"/>
+            <Button
+                android:id="@+id/platillos"
+                android:background="@drawable/round_button"
+                android:text="platillos"
+                android:textSize="15dp"
+                android:textColor="@color/colorSecondary"
+                android:layout_height="50dp"
+                android:layout_width="180dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_height="60dp"
+            android:layout_width="match_parent"
+            android:gravity="center">
+            <Button
+                android:id="@+id/menu_kids"
+                android:background="@drawable/round_button"
+                android:text="menu kids"
+                android:textSize="15dp"
+                android:textColor="@color/colorSecondary"
+                android:layout_height="50dp"
+                android:layout_width="180dp"/>
+            <Button
+                android:id="@+id/postres"
+                android:background="@drawable/round_button"
+                android:text="postres"
+                android:textSize="15dp"
+                android:textColor="@color/colorSecondary"
+                android:layout_height="50dp"
+                android:layout_width="180dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_height="60dp"
+            android:layout_width="match_parent"
+            android:gravity="center">
+            <Button
+                android:id="@+id/bebidas"
+                android:background="@drawable/round_button"
+                android:text="bebidas"
+                android:textSize="15dp"
+                android:textColor="@color/colorSecondary"
+                android:layout_height="50dp"
+                android:layout_width="180dp"/>
+        </TableRow>
+
+    </LinearLayout>
+
+</LinearLayout>
